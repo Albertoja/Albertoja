@@ -5,7 +5,8 @@ I'm passionate about all forms of technology. I have found my way to satisfy my 
 
 - 🎓 42 Madrid student.
 - 💻 Proficient in C, C++, C# and JavaScript.
-- 🎨 Designer 3d in blender and maya
+- 🎨 Designer 3d in Blender and Maya.
+- 👾 Passionate videogame creator in Unity to improve my code.
   
 ## 🌐 Connect with Me
 
