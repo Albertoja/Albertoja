@@ -11,7 +11,7 @@ I'm passionate about all forms of technology. I have found my way to satisfy my 
   
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/alberto-javier-espinosa-yáñez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alberto-javier-espinosa-y%C3%A1%C3%B1ez-683255319/)
 
 ###
 
