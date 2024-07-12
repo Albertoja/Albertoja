@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 👋 Hello, I'm Alberto!
-I am passionate about all forms of technology. I have found my way to satisfy my passion for solving logical problems through programming. I am eager to learn more and be able to contribute as much as possible.
+I'm passionate about all forms of technology. I have found my way to satisfy my passion for solving logical problems through programming. I'm eager to learn more and be able to contribute as much as possible.
 
 ## 🚀 About Me
 
