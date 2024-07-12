@@ -74,6 +74,6 @@ The IRC project implements a basic Internet Relay Chat (IRC) server and client, 
 
 ## 🤝 Let's Connect
 
-[LinkedIn]([https://www.linkedin.com/in/mario-gonzalez-galisteo/](https://www.linkedin.com/in/alberto-javier-espinosa-y%C3%A1%C3%B1ez-683255319/))
+[LinkedIn](https://www.linkedin.com/in/alberto-javier-espinosa-y%C3%A1%C3%B1ez-683255319/)
 
 Thank you for reading! Your feedback is greatly appreciated.
