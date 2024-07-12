@@ -56,7 +56,7 @@ I'm passionate about all forms of technology. I have found my way to satisfy my 
 ### [Minishell](https://github.com/Albertoja/42_minishell)
 Minishell is a project that replicates some basic functionalities of a Unix shell. Its purpose is to provide a deep understanding of how shells work internally and to enhance C programming skills
 ### [Cub3D](https://github.com/Albertoja/42_cub3D)
-"Cub3D is a dynamic and immersive project that challenges participants to create a 3D maze using the raycasting technique in C programming. Developed as part of the 42 curriculum, this project involves graphics rendering, texture mapping, and real-time player movement, offering a hands-on experience in graphics programming and game development."
+Cub3D is a dynamic and immersive project that challenges participants to create a 3D maze using the raycasting technique in C programming. Developed as part of the 42 curriculum, this project involves graphics rendering, texture mapping, and real-time player movement, offering a hands-on experience in graphics programming and game development.
 ### [Philosophers](https://github.com/Albertoja/42_philosophers)
 Philosophers is a project that simulates the classic dining philosophers problem to illustrate concurrency and synchronization issues. The goal of the project is to develop an understanding of how to handle concurrent processes and shared resources.
 ### [Irc](https://github.com/Albertoja/42_ft_irc)
