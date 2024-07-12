@@ -1,7 +1,7 @@
 ### Hi there 👋
-# 👋 Hello, I'm Alberto!
 
-I'm a passionate Informatics Engineering student at UAX University with a keen interest in cybersecurity. Currently, I'm making strides in the world of cybersecurity as part of the Security Operations Center team at Telefonica Tech.
+# 👋 Hello, I'm Alberto!
+I am passionate about all forms of technology. I have found my way to satisfy my passion for solving logical problems through programming. I am eager to learn more and be able to contribute as much as possible.
 
 ## 🚀 About Me
 
@@ -12,7 +12,6 @@ I'm a passionate Informatics Engineering student at UAX University with a keen i
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/alberto-javier-espinosa-yáñez/)
-
 
 ###
 
