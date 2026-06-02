@@ -64,7 +64,7 @@ Philosophers is a project that simulates the classic dining philosophers problem
 The IRC project implements a basic Internet Relay Chat (IRC) server and client, demonstrating fundamental networking and real-time communication concepts. The project's goals include building a functional chat system.
 
 ## 📈 42 Stats
-[![aespinos's 42 stats]([https://badge.mediaplus.ma/kettlebells/aespinos?1337Badge=off&UM6P=off](https://badge.mediaplus.ma/darkblue/aespinos))](https://github.com/oakoudad/badge42)
+[![aespinos's 42 stats](https://badge.mediaplus.ma/darkblue/aespinos)](https://github.com/oakoudad/badge42)
 
 ## 🤝 Let's Connect
 
