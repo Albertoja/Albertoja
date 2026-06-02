@@ -1,73 +1,130 @@
-# 👋 Hello, I'm Alberto!
-I'm passionate about all forms of technology. I have found my way to satisfy my passion for solving logical problems through programming. I'm eager to learn more and be able to contribute as much as possible.
+# 👋 Hi, I'm Alberto!
+
+I'm a junior developer focused on C, C++, C# and game development.
+
+I trained at 42 Madrid / Fundación Telefónica, where I worked on low-level programming, algorithms, memory management, Unix systems, networking and object-oriented programming.
+
+I enjoy solving technical problems, building practical projects and learning by creating real software. I'm currently developing my own online co-op videogame in Unity, which has helped me improve my programming, architecture, physics, gameplay and networking skills.
 
 ## 🚀 About Me
 
-- 🎓 42 Madrid student.
-- 💻 Proficient in C, C++, C# and JavaScript.
-- 🎨 Designer 3d in Blender and Maya.
-- 👾 Passionate videogame creator in Unity to improve my code.
-  
-## 🌐 Connect with Me
+* 🎓 Trained at 42 Madrid / Fundación Telefónica.
+* 💻 Focused on C, C++, C# and Unity.
+* 🧠 Interested in algorithms, systems programming, networking and gameplay programming.
+* 🎮 Solo developer of 4Below, an online co-op videogame in Unity.
+* 🛠️ Experience with Linux, Git, Bash, Docker and backend technologies.
+* 🎨 3D modeling experience with Blender and Maya.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alberto-javier-espinosa-y%C3%A1%C3%B1ez-683255319/)
+## 🌐 Contact
 
-###
+📧 Email: [albertoesya@gmail.com](mailto:albertoesya@gmail.com)
+
+## 🎮 My Game
+
+### [4Below](https://store.steampowered.com/app/4300260/4Below/)
+
+4Below is a 1-4 player online co-op videogame currently in development with Unity.
+
+Players descend into ancient underground ruins, collect valuable relics, survive dangerous creatures, use tools, combine perks and try to meet the quota together.
+
+The project includes online multiplayer, physics-based interaction, active ragdoll characters, procedural level generation, enemy AI and Steam integration.
+
+**Key concepts:** Unity, C#, multiplayer, physics, gameplay programming, AI, procedural generation, Steamworks.
+
+🔗 [View 4Below on Steam](https://store.steampowered.com/app/4300260/4Below/)
 
 <br clear="both">
 
 <h2 align="left">🛠️ Languages and Tools</h2>
 
-###
-
 <br clear="both">
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="80" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="80" alt="C logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="80" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="80" alt="C++ logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="80" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="80" alt="C# logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" alt="JavaScript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="80" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="80" alt="GitHub logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="80" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="80" alt="Linux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="80" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="80" alt="Bash logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="80" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="80" alt="MySQL logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="80" alt="debian logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="80" alt="Debian logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="80" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="80" alt="VS Code logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="80" alt="Unity logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="80" alt="Blender logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="80" alt="Maya logo" />
-  <img width="12" />
 </div>
-
-###
 
 ## 🚧 Projects
 
 ### [Minishell](https://github.com/Albertoja/42_minishell)
-Minishell is a project that replicates some basic functionalities of a Unix shell. Its purpose is to provide a deep understanding of how shells work internally and to enhance C programming skills
+
+A Unix-like shell developed in C as part of the 42 curriculum.
+
+The project focuses on process management, command parsing, pipes, redirections, environment variables and signal handling.
+
+**Key concepts:** C, Unix, processes, pipes, parsing, memory management.
+
+---
+
 ### [Cub3D](https://github.com/Albertoja/42_cub3D)
-Cub3D is a dynamic and immersive project that challenges participants to create a 3D maze using the raycasting technique in C programming. Developed as part of the 42 curriculum, this project involves graphics rendering, texture mapping, and real-time player movement, offering a hands-on experience in graphics programming and game development.
+
+A simple 3D engine based on raycasting, inspired by classic games like Wolfenstein 3D.
+
+The project involves rendering a 3D-like maze from a 2D map, handling textures, player movement and collision logic.
+
+**Key concepts:** C, raycasting, graphics programming, math, rendering.
+
+---
+
 ### [Philosophers](https://github.com/Albertoja/42_philosophers)
-Philosophers is a project that simulates the classic dining philosophers problem to illustrate concurrency and synchronization issues. The goal of the project is to develop an understanding of how to handle concurrent processes and shared resources.
-### [Irc](https://github.com/Albertoja/42_ft_irc)
-The IRC project implements a basic Internet Relay Chat (IRC) server and client, demonstrating fundamental networking and real-time communication concepts. The project's goals include building a functional chat system.
+
+A simulation of the dining philosophers problem, focused on concurrency, synchronization and shared resource management.
+
+The goal of the project is to understand how to manage multiple threads safely while avoiding race conditions and deadlocks.
+
+**Key concepts:** C, threads, mutexes, concurrency, synchronization.
+
+---
+
+### [ft_irc](https://github.com/Albertoja/42_ft_irc)
+
+An IRC server developed in C++, implementing real-time communication between multiple clients.
+
+The project focuses on sockets, client-server architecture, command handling and network programming.
+
+**Key concepts:** C++, networking, sockets, server architecture, IRC protocol.
+
+---
+
+### [4Below](https://store.steampowered.com/app/4300260/4Below/)
+
+A 1-4 player online co-op videogame currently in development with Unity.
+
+The project includes online multiplayer, physics-based interaction, active ragdoll characters, procedural level generation, enemy AI, tools, perks and Steam integration.
+
+**Key concepts:** Unity, C#, multiplayer, physics, gameplay programming, AI, procedural generation, Steamworks.
 
 ## 📈 42 Stats
+
 [![aespinos's 42 stats](https://badge.mediaplus.ma/darkblue/aespinos)](https://github.com/oakoudad/badge42)
 
-## 🤝 Let's Connect
+## 🤝 Contact
 
-[LinkedIn](https://www.linkedin.com/in/alberto-javier-espinosa-y%C3%A1%C3%B1ez-683255319/)
+If you'd like to get in touch, feel free to contact me by email:
 
-Thank you for reading! Your feedback is greatly appreciated.
+📧 [albertoesya@gmail.com](mailto:albertoesya@gmail.com)
+
+Thanks for visiting my profile!
